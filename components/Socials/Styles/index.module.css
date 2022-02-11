@@ -1,0 +1,19 @@
+.social {
+  padding-top: 30px;
+  position: relative;
+  display: inline-block;
+  align-items: center;
+}
+
+.align {
+  align-items: flex-start;
+}
+
+.parent {
+
+  padding: 1rem;
+}
+
+.floatLeftChild {
+  float: left;
+}
