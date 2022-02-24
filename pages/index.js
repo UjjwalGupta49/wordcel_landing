@@ -19,7 +19,7 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-blueGray-600">
-                <b>Wordcel Club</b> Read, Write, Own
+                <b>Wordcel Club</b><br />Read, Write, Own
               </h2>
               <div>
                 <div className="mt-12 md:w-6/36">
