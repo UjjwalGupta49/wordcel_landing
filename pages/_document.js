@@ -14,6 +14,7 @@ class MyDocument extends Document {
             sizes="76x76"
             href="/img/brand/apple-icon.png"
           />
+
           <script src="https://kit.fontawesome.com/bf65628125.js" crossorigin="anonymous"></script>
         </Head>
         <body className="text-blueGray-700 antialiased">

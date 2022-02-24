@@ -840,6 +840,12 @@ select {
   }
 }
 
+@media only screen and (max-width: 300px) {
+  #forImage {
+      display: none;
+  }
+}
+
 @media (min-width: 768px) {
   .container {
     max-width: 768px;
